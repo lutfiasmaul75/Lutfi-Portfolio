@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.side-active{
+    @apply bg-black text-white;
+}
+
+.search{
+    @apply border-b-2 border-black ;
+}
